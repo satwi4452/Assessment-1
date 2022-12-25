@@ -1,0 +1,63 @@
+#c1{
+   height: 800px;
+   width: 500px;
+   
+   background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png);
+}
+#img{
+   position: relative;
+   top: 20px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-left: 25px;
+   margin-right: 10px;
+   width: 450px;
+   
+}
+#nemo{
+   color: white;
+   position: relative;
+   left: 30px;
+}
+#button{
+   position: relative;
+   left: 350px;
+   bottom: 40px;
+   background-color: blanchedalmond;
+   color: coral;
+}
+#para{
+   color: white;
+   margin-right: 20px;
+   text-align: justify;
+   padding: 20px;
+   position: relative;
+   bottom: 40px;
+}
+#m1{
+   position: relative;
+   bottom: 60px;
+   color: white;
+   left: 30px;
+}
+#row{
+   height: 10px;
+}
+#i1{
+   position: relative;
+   bottom: 60px;
+   left: 30px;
+   width: 110px;
+}
+#i2{
+   position: relative;
+   bottom: 60px;
+   left: 20px;
+   width: 110px;
+}
+#i3{
+   position: relative;
+   bottom: 60px;
+   left: 10px;
+   width: 110px;
+}

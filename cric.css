@@ -1,0 +1,56 @@
+#con{
+    width:600px;
+    text-align: center;
+}
+#row1{
+    background-color: #fb4e71;
+    height: 200px;
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/klrahul-img1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+#head1{
+    color:#ffffff;
+    float: left;
+    padding-left: 10px;
+    
+   
+}
+#para1{
+    text-align: justify;
+    position: relative;
+    left: 10px;
+    padding-right: 100px;
+}
+#head2{
+    padding: 10px;
+
+}
+/* #row8{
+   background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/klrahul-img2.png) ;
+
+   background-repeat: no-repeat;
+   height: 160px;
+   position: relative;
+   left:auto;
+   background-color: aqua;
+   background-position: full;
+   border-radius: 20px;
+   
+}
+#col2{
+    background-color:#e6f6ff;
+
+} */
+#card{
+    padding-right: 20px;
+
+}
+#card2{
+    background-color:whites;
+}
+#he2{
+    position: absolute;
+    
+}

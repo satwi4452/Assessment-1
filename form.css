@@ -1,0 +1,42 @@
+#con1{
+    height: 900px;
+    background-color: #875fc0;
+    width: 500px;
+    position: absolute;
+    left: 100px;
+}
+#card{
+    position: relative;
+    left: 50px;
+    top: 1px;
+    
+}
+#h1{
+    position: relative;
+    left: 250px;
+    color: white;
+}
+#h5{
+    position: relative;
+    left: 100px;
+}
+#img{
+    position: relative;
+    width: 300px;
+}
+#button{
+    background-color:#fbaf00;
+}
+#val{
+    color: #323f4b;
+    
+}
+#button{
+    position: relative;
+    left: 190px;
+}
+#cl1{
+    position: relative;
+    left: 55px;
+
+}
